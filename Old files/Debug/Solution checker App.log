@@ -1,0 +1,2 @@
+﻿  checker app.c
+LINK : fatal error LNK1168: cannot open E:\Solution checker App\Debug\Solution checker App.exe for writing
